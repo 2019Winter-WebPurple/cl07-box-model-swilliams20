@@ -1,0 +1,29 @@
+/*
+/* Sarah Williams
+* Due Date 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body properties here */
+
+body {
+background-color: purpl
+}
+main {
+    background-color: cadetblue;
+    height: auto;
+    width: auto;
+    border-top: 7px double mediumpurple;
+    border-right: 7px dashed mediumpurple;
+    border-bottom: 7px double mediumpurple;
+    border-left: 7px dashed mediumpurple;
+    padding: 1em;
+    margin: 10em;
+}
